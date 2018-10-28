@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="header">
+    <div class="top">
+     <img src="http://www.picshare.ru/uploads/181027/qq06m4hdu7_thumb.jpg" alt="logo">
+    <ul class="menu">
+    <li><a href="">HOME</a></li>  
+     <li><a href="">ABOUT</a></li>
+     <li><a href="">SERVICES</a></li>
+     <li><a href="">GALLERY</a></li>
+     <li><a href="">CONTACT</a></li>
+    </ul>
+    </div>
+    <div class="header-text">
+      <img src="http://www.picshare.ru/uploads/181028/b209Mq053P.png" alt="photo">
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+    </div>
+    </div>
+  <div class="services">
+    <div class="top-services">
+    <h1><span>OUR</span> SERVICES</h1>
+  </div>
+    <div class="menu-services">
+      
+    </div>
+  </div>
+
+
+
+
+
+</div>
+  
+  
+  
+  
