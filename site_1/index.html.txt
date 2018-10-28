@@ -19,8 +19,41 @@
     <div class="top-services">
     <h1><span>OUR</span> SERVICES</h1>
   </div>
-    <div class="menu-services">
-      
+    <ul class="menu-services">
+    <li><div class="submenu1"><a href=""><img src="http://www.picshare.ru/uploads/181028/JEsTH9P32B.png" alt="photo"><p>Making your trip beautiful and easier</p></a></div></li>  
+    <li><div class="submenu2"><a href=""><img src="http://www.picshare.ru/uploads/181028/t68FEGd2xI.png" alt="photo"><p>Tools to help you succeed tommorow</p></a></div></li>
+    <li><div class="submenu3"><a href=""><img src="http://www.picshare.ru/uploads/181028/Hqjln2tr2l.png" alt="photo"><p>Ideas that will blow you out the blue.</p></a></div></li>
+    <li><div class="submenu4"><a href=""><img src="http://www.picshare.ru/uploads/181028/rfReGg917s.png" alt="photo"><p>Navigate your path to beautiful world.</p></a></div></li>
+    </ul>
+    <div class="bottom-service">
+     <div> <p>We are in business for over 6 years providing amazing services to client
+and people love them to the core. View our story to know more.</p> </div>
+     <div> <a href="">OUR STORY</a> </div>
+    </div>
+  </div>
+  <div class="pricing">
+    <h1>PRICING</h1>
+    <div class="stiker">
+      <div class="starter">
+        <h3>Starter</h3>
+        <h4>FREE</h4>
+         <p> Free Service Multiple Accounts Management No </br>
+           --</br>--</p>
+        <p class="stiker-p2"><a href="">TRY</a></p>
+      </div>
+      <div class="starter">
+        <h3>Business</h3>
+        <h4>$97</h4>
+         <p> Free Service Multiple Accounts Management No </br>
+           --</br>--</p>
+        <p class="stiker-p3"><a href="">SIGN UP</a></p>
+      </div>
+      <div class="starter">
+        <h3>Professional</h3>
+        <h4>$297</h4>
+         <p> Free Service Multiple Accounts Management No Unlimited Data Whatever You Need</p>
+        <p class="stiker-p2"><a href=""><span>SIGN UP</span></a></p>
+      </div>
     </div>
   </div>
 
